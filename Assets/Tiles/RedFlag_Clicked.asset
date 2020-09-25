@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: RedFlag_Clicked
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 3633503451578214408, guid: 18a01b2c53285534abf971eb05e4aaa7, type: 3}
+  - {fileID: 4428894848824060189, guid: 18a01b2c53285534abf971eb05e4aaa7, type: 3}
+  - {fileID: -1573061962048161835, guid: 18a01b2c53285534abf971eb05e4aaa7, type: 3}
+  - {fileID: 711017403723941327, guid: 18a01b2c53285534abf971eb05e4aaa7, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
